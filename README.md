@@ -9,7 +9,13 @@ Use if you are an Enterprise wishing to easily integrate Minima into your curren
 
 You need to run a Minima node, enable RPC and connect MEG to it.
 
-To get a list of options simply run :
+To run :
+
+```
+java -jar minima-meg-4.0.jar
+```
+
+To get a list of options for the cli - simply run :
 
 ```
 java -jar minima-meg-4.0.jar -help
