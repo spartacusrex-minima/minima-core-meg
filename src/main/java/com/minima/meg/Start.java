@@ -21,7 +21,7 @@ public class Start
 	/**
 	 * The Main MEG Manager
 	 */
-	public static final String MEG_VERSION = "3.5.1";
+	public static final String MEG_VERSION = "4.0";
 	
 	private static MEGManager mMEG;
 	
