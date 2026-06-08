@@ -12,13 +12,13 @@ You need to run a Minima node, enable RPC and connect MEG to it.
 To get a list of options simply run :
 
 ```
-java -jar minima-meg-4..0.jar -help
+java -jar minima-meg-4.0.jar -help
 ```
 
 You can set the port, data folder, default login for Minima RPC node etc
 
 You can browse the main admin site at http://127.0.0.1:8080 (or whatever port you have chosen)
 
-You will need to specify a starter -adminpassword on the cli to add more users 
+You will need to specify a starter -adminpassword on the cli for your initial login and then to add more users 
 
 
