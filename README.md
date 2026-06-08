@@ -1,2 +1,2 @@
-# minima-core-meg
+# MEG
 Minima Enterprise Gateway
